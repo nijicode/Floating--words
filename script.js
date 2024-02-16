@@ -5,12 +5,12 @@ const words = [
   "Hello",
   "Miss na kita",
   "Kamusta?",
-  "Ok ka paba?",
+  "Hindi mo ba ko miss?",
   "Okay lang yan",
-  "*",
-  "Uwi ka na, Hindi Nako Galit",
-  "Roldan Baho",
+  "Uwi ka na",
   "Picaro ka",
+  "Tao po",
+  "Bro",
 ];
 const container = document.querySelector(".container");
 
