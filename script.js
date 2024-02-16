@@ -7,8 +7,8 @@ const words = [
   "Pakyu",
   "Bobo ka ba?",
   "*",
-  "0",
-  "1",
+  "Uwi ka na",
+  "Roldan Baho",
   "Magluluto lang ako saglet",
 ];
 const container = document.querySelector(".container");
