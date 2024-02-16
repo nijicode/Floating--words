@@ -7,7 +7,7 @@ const words = [
   "Pakyu",
   "Bobo ka ba?",
   "*",
-  "Uwi ka na",
+  "Uwi ka na, Hindi Nako Galit",
   "Roldan Baho",
   "Magluluto lang ako saglet",
 ];
