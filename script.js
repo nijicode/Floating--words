@@ -1,15 +1,16 @@
 const words = [
   "Hey",
+  "Men",
   "Hi",
   "Hello",
   "Miss na kita",
   "Kamusta?",
-  "Pakyu",
-  "Bobo ka ba?",
+  "Ok ka paba?",
+  "Okay lang yan",
   "*",
   "Uwi ka na, Hindi Nako Galit",
   "Roldan Baho",
-  "Magluluto lang ako saglet",
+  "Picaro ka",
 ];
 const container = document.querySelector(".container");
 
