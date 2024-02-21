@@ -3,14 +3,12 @@ const words = [
   "Men",
   "Hi",
   "Hello",
-  "Miss na kita",
+  "Miss you",
   "Kamusta?",
-  "Hindi mo ba ko miss?",
-  "Okay lang yan",
-  "Uwi ka na",
-  "Picaro ka",
-  "Tao po",
-  "Bro",
+  "Annyeong",
+  "こんにちは",
+  "你好",
+  "Xin chào",
 ];
 const container = document.querySelector(".container");
 
@@ -24,7 +22,7 @@ function pindutin() {
 }
 
 function removeDrop() {
-  setInterval(() => container.removeChild(container.firstChild), 150);
+  setInterval(() => container.removeChild(container.firstChild), 400);
 }
 
 function generateRandom(mult, round) {
